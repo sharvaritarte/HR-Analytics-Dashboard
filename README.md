@@ -67,10 +67,3 @@ Designed using a **Star Schema** approach:
 The dashboard can be connected through **Power BI Gateway** to enable automatic data refresh and real-time updates from live data sources.
 
 ---
-
-## 🧑‍💼 Author
-**Sharvari Tarte**  
-📍 Aspiring Data Analyst | Power BI | SQL | Excel | DAX      
----
-
-## 🗂️ Repository Structure
